@@ -4,9 +4,6 @@
 
 [ 👉 ¡JUEGA AQUÍ! 👈](https://kockono.github.io/piedra-papel-tijeras-vanilla/)
 
-</br>
-
-
 ## Reglas del juego
 1. El juego se juega entre tú y la computadora.
 2. Cada jugador elige una de las tres opciones: piedra, papel o tijeras.
