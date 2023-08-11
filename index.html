@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="styles.css">
+<title>Juego</title>
+</head>
+<body>
+  <h1 style="font-size: 4rem;">Piedra, Papel o Tijeras</h1>
+  <!-- Botones para seleccionar -->
+  <div class="choices">
+    <div class="container"> <!-- container para que el boton y la imagen esten en la misma linea -->
+      <img src="assets/piedra.png" alt="piedra">
+      <button onclick="startGame(event)" id="piedra">Piedra</button>
+    </div>
+    <div class="container">
+      <img src="assets/papel.png" alt="papel">
+      <button onclick="startGame(event)" id="papel">Papel</button>
+    </div>
+    <div class="container">
+      <img src="assets/tijeras.png" alt="tijeras">
+      <button onclick="startGame(event)" id="tijeras">Tijeras</button>
+    </div>
+  </div>
+  <!-- Resultado-->
+  <div id="result"></div>
+  <!-- Resultado final-->
+  <h2 id="resultFinal" style="font-size: 5.1rem"></h2>
+  <script src="script.js"></script>
+</body>
+</html>
