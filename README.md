@@ -1,6 +1,9 @@
 # Juego de Piedra, Papel y Tijeras
 
 </br>
+[¡¡¡¡ JUEGA AQUÍ !!!!](https://kockono.github.io/piedra-papel-tijeras-vanilla/)
+</br>
+
 
 ## Reglas del juego
 1. El juego se juega entre tú y la computadora.
