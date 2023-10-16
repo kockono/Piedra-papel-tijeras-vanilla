@@ -2,7 +2,7 @@
 
 </br>
 
-[ 👉 ¡JUEGA AQUÍ! 👈](https://kockono.github.io/piedra-papel-tijeras-vanilla/)
+[ 👉 ¡JUEGA AQUÍ! 👈](https://kockono.github.io/Piedra-papel-tijeras-vanilla/)
 
 ## Actions
 ##### Tiene deploy automatico, por cada push que se haga a la rama main
